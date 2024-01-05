@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1701867664 source:c:\users\rayen\desktop\lanc\proj\main.c
+	<windows.h>
+	<sqlite3.h>
+	"database.h"
+	"window.h"
+
+1701867689 source:c:\users\rayen\desktop\lanc\proj\database.c
+	<stdio.h>
+	<stdlib.h>
+	<sqlite3.h>
+	"database.h"
+
+1701867928 c:\users\rayen\desktop\lanc\proj\database.h
+	<sqlite3.h>
+
+1701869605 c:\users\rayen\desktop\lanc\proj\window.h
+	<windows.h>
+
+1701875812 source:c:\users\rayen\desktop\lanc\proj\window.c
+	<windows.h>
+	<commctrl.h>
+	"window.h"
+	"database.h"
+	"crud.h"
+	<stdio.h>
+
+1701877494 source:c:\users\rayen\desktop\lanc\proj\crud.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<sqlite3.h>
+	"crud.h"
+
+1701873824 c:\users\rayen\desktop\lanc\proj\crud.h
+
+1704442149 source:c:\users\rayen\desktop\c_proj\database.c
+	<stdio.h>
+	<stdlib.h>
+	<sqlite3.h>
+	"database.h"
+
+1704442148 c:\users\rayen\desktop\c_proj\database.h
+	<sqlite3.h>
+
+1704442149 source:c:\users\rayen\desktop\c_proj\main.c
+	<windows.h>
+	<sqlite3.h>
+	"database.h"
+	"window.h"
+
+1704442573 c:\users\rayen\desktop\c_proj\window.h
+	<windows.h>
+
+1704442573 source:c:\users\rayen\desktop\c_proj\window.c
+	<windows.h>
+	<commctrl.h>
+	"window.h"
+	"database.h"
+	"crud.h"
+	<stdio.h>
+
+1704442573 c:\users\rayen\desktop\c_proj\crud.h
+
+1704442872 source:c:\users\rayen\desktop\c_proj\crud.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<sqlite3.h>
+	"crud.h"
+
